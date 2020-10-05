@@ -16,14 +16,14 @@ sleep 1
 echo $bi"    =======================================|"
 echo $me"     #  ===================================|"
 sleep 1
-echo $ij"     #   >> AUTHOR  : ANDIELIS            #"
+echo $ij"     #   >> AUTHOR  : RIZKIAR017           #"
 echo $bi"     #  ===================================|"
 sleep 1
-echo $ij"     #   >> GITHUB  : termuxandi          #"
+echo $ij"     #   >> GITHUB  : RIZKI017             #"
 echo $bi"    =======================================|"
 echo $me"     #  ===================================|"
 sleep 1
-echo $ij"     #   >> YOUTUBE : MR_Termux Andi      #"
+echo $ij"     #   >> YOUTUBE : MR-XZ CRACKING       #"
 echo $bi"    =======================================|"
 echo
 sleep 1
@@ -186,5 +186,5 @@ fi
 #batas gan
 if [ $pil = 13 ]
 then
-echo "Kalau ingin lihat lebih lengkap kalian copy link youtube ini https://www.youtube.com/channel/UCBzB18lcyrAUkfilZTP195w" | lolcat
+echo "NO BACOTT YA BIAR GK CROTT | lolcat
 fi
